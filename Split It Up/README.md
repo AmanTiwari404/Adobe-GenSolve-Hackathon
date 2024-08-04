@@ -15,6 +15,6 @@
 <strong>Explanation:</strong> You can remove the edge between 1 and 3 to get the minimum difference.</span></pre>
 <pre><span style="font-size: 18px;"><strong>Input:</strong> n = 4, A = {1, 1, 1} B = {2, 3, 4}
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/715473/Web/Other/blobid0_1687459250.png" alt="Explanation"></span></pre>
+<strong>Explanation:</strong> <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/715473/Web/Other/blobid0_1687459250.png" alt="Explanation" width="250" height="350"></span></pre>
 <p><span style="font-size: 18px;"><strong>Expected Time Complexity:</strong> O(n)<br><strong>Expected Auxiliary Space:</strong> O(n)&nbsp;</span></p>
 </div>
